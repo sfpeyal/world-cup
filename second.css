@@ -71,7 +71,7 @@ body {
     display: flex;
     justify-content: center;
     margin-top: 130px;
-    height: 1134px;
+    height: 734px;
 }
 
 .update-div {
@@ -80,6 +80,12 @@ body {
     display: flex;
 }
 
+.transfer-img{
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+    align-items: center;
+}
 .match-update {
     display: flex;
     flex-direction: column;
@@ -305,7 +311,7 @@ footer hr {
 
     /* Sports News Section */
     .sports-update {
-        height: 3600px;
+        height: 2500px;
     }
 
     .update-div {
@@ -360,7 +366,7 @@ footer hr {
 
     /* Sports News Section */
     .sports-update {
-        height: 2100px;
+        height: 1400px;
     }
 
     .update-div {
